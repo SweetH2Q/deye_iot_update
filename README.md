@@ -1,5 +1,6 @@
 # deye_iot_update
-*change baidu thing manage to thing hub
+*change baidu thing manage to baidu thing hub*
+
 |更新接口|更新视图|
 |:------|:------|
 |/device/activation/|ActivationView|
