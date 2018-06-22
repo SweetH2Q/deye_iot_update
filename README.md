@@ -1,15 +1,15 @@
 # deye_iot_update
 *change baidu thing manage to baidu thing hub*
 
-|更新接口|更新视图|
-|:------|:------|
-|/device/activation/|ActivationView|
-|/device/loraactivate/|LoRaActivationView|
-|/enduser/checkVerCode/|checkVerCode|
-|/product/vDevice/|VirtualDeviceActivationView|
-|/product/virtual/bind/|VirtualDeviceBindView|
-|/accounts/signup/|SignUpView|
-|/wechat/activate/|WechatDeviceActivate|
-|/wechat/bind/|Wechat_Bind|
-|/product/device/|DeviceView|
+|更新接口|更新视图|测试通过|
+|:------|:------|------|
+|/device/activation/|ActivationView|yes|
+|/device/loraactivate/|LoRaActivationView|yes|
+|/enduser/checkVerCode/|checkVerCode|yes|
+|/product/vDevice/|VirtualDeviceActivationView|yes|
+|/product/virtual/bind/|VirtualDeviceBindView|yes|
+|/accounts/signup/|SignUpView|no|
+|/wechat/activate/|WechatDeviceActivate|yes|
+|/wechat/bind/|Wechat_Bind|yes|
+|/product/device/|DeviceView|yes|
 ||DeviceCreateSerializer|
