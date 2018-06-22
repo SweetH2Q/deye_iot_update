@@ -1,5 +1,5 @@
 # deye_iot_update
-*change baidu thing manage to baidu thing hub*
+**change baidu thing manage to baidu thing hub**
 
 |更新接口|更新视图|测试通过|
 |:------|:------|------|
@@ -13,3 +13,11 @@
 |/wechat/bind/|Wechat_Bind|yes|
 |/product/device/|DeviceView|yes|
 ||DeviceCreateSerializer|
+
+
+**baidu mqtt api**
+|位置||路由|更新视图|测试通过|
+|:------|：------|:-------|:------|
+||mqtt/cmd/|MqttMessageView||
+|/schedule/tasks.py||||
+|
