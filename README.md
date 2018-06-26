@@ -14,10 +14,3 @@
 |/product/device/|DeviceView|yes|
 ||DeviceCreateSerializer|
 
-
-**baidu mqtt api**
-
-|位置路由|更新视图|测试通过|
-|:------|:------|:------|:------|
-
-
