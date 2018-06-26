@@ -17,8 +17,8 @@
 
 **baidu mqtt api**
 
-|位置||路由|更新视图|测试通过|
+|位置|路由|更新视图|测试通过|
 |:------|：------|:-------|:------|
-||mqtt/cmd/|MqttMessageView||
+|mqtt/cmd/|MqttMessageView|||
 |/schedule/tasks.py||||
 |
